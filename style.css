@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#divhead {font-family: 'cochin';font-size: 18px;  }
+#divtitle {font-family:'cochin'; font-size:x-large; text-align: center; }
+} 
+.textgreen {color: green;}
+.textpurple {color:purple;}
+ol.upper-roman { list-style-type: upper-roman;}
+
+table, th, td {
+  border: 1px solid black;
+  
+}
+
+
+<!-- table{
+  border-collapse: collapse;
+         border: 5px solid black;
+}
+
+ th {
+      border: 4px solid green; background-color:yellow; font-family:'Lucida';font-size: 18px; }
+
+
+
+td:first-child {background-color:greenyellow;font-family: 'cursive';font-size: 18px; }
+tr:nth-child(even) {background-color:hotpink;font-family:'Palatino';font-size: 18px; }
+
